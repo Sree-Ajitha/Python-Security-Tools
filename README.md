@@ -42,7 +42,7 @@ A Python tool for parsing server logs and identifying potentially suspicious IP 
 
 ## Installation
 
-1. Clone this repository or download the script
+1. Clone this repository or  **⬇[Download log_analyzer (.py)](https://github.com/Sree-Ajitha/Python-Security-Tools/blob/fd303dc2f59b45781e392ea14b02a84bbcd48434/log_analyzer.py)**
 2. Make the script executable:
    ```bash
    chmod +x log_analyzer.py
