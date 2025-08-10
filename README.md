@@ -77,13 +77,36 @@ A Python-based security utility that detects and responds to brute force login a
 
 ---
 
+# **🛡 [Ransomware Activity Detection Script](https://github.com/Sree-Ajitha/Python-Security-Tools/blob/fb8d85bf707cc73f10f7bc9b633a59cdb2acc814/Basic%20ransomware%20activity%20detection.md)**
+
+A lightweight, real-time file system monitor designed to spot suspicious activity patterns commonly linked to ransomware. This tool detects abnormal file operations, flags known ransomware extensions, and alerts on potential ransom note creation — all without external dependencies.
+
+✅ Key Features
+
+  * Live Directory Monitoring: Tracks file creations, modifications, and deletions.
+
+  * Suspicious Activity Alerts: Detects rapid file changes, high I/O bursts, and known ransomware extensions.
+
+  * Ransom Note Detection: Flags files matching ransom note patterns.
+
+  * Customizable Thresholds: Set file operation limits and time windows to trigger alerts.
+
+  * Zero Dependencies: Runs on Python’s standard library (Python 3.6+).
+
+📂 Resources
+
+   **⬇ [Download Basic ransomware activity detection(.py)](https://github.com/Sree-Ajitha/Python-Security-Tools/blob/34eb354ae0b63f495949bffb9461532540552711/ransomware_detector.py)**
+
+ ⚠ Disclaimer: This is a basic detection tool, not a full security solution. Use alongside professional anti-malware software as part of a layered defense strategy.
+
+---
+
 ## 🚧 Development Roadmap
 
 - [x] Initial repo setup
 - [x] Uploaded base scripts
-- [ ] Add full documentation
-- [ ] Create Splunk dashboardshttps://github.com/Sree-Ajitha/Python-Security-Tools/pull/1#issue-3288836333
-- [ ] Write blog post walkthrough
+- [x] Add full documentation
+- [x] Write blog post walkthrough
 
 > **Note:** This project is currently **In Progress**.  
 > New features, updated scripts, and documentation will be added over the coming weeks.  
