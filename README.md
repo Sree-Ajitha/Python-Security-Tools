@@ -4,7 +4,7 @@
 tools, rules, and customised scripts walkthroughs by Python
 
 
-## 🔐 Password Strength Analyzer – Version 2.0
+## 🔐 **[Password Strength Analyzer – Version 2.0](https://github.com/Sree-Ajitha/Python-Security-Tools/pull/1#issue-3288836333).**
 
 A next-generation password security tool offering **advanced analysis, real-time feedback, and GUI enhancements**. Version 2.0 introduces improved detection algorithms, a memory-efficient dictionary handler for large wordlists (including `rockyou.txt`), and refined password vulnerability insights.
 
@@ -17,7 +17,6 @@ A next-generation password security tool offering **advanced analysis, real-time
 
 ### 📂 Resources
 
-* **🔗 [Pull Request for Version 2.0](https://github.com/Sree-Ajitha/Python-Security-Tools/pull/1#issue-3288836333).**
 * **⬇ [Download Password Strength Analyzer v2.0 (.py)](https://github.com/Sree-Ajitha/Python-Security-Tools/compare/Sree-Ajitha-password_checker_V2.0)**
 ---
 # **🛡 [Log Parser & Suspicious IP Detector – Python Tool](https://github.com/Sree-Ajitha/Python-Security-Tools/blob/1a1380dd739b0cf51c35afcb12ac1275d4d24324/Log%20Parser%20%26%20IP%20Detection%20Tool.md)**
