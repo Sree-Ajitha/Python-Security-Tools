@@ -1,8 +1,8 @@
 ![Version](https://img.shields.io/badge/version-2.0.0-blue) ![Python](https://img.shields.io/badge/python-3.8%2B-green) ![License](https://img.shields.io/badge/license-MIT-orange) ![Last Updated](https://img.shields.io/badge/last%20updated-2025--08--04-lightgrey)
 
-# Python-Security-Tools
+# Python-Security-Tools ![Status](https://img.shields.io/badge/Status-In%20Progress-yellow)
 tools, rules, and customised scripts walkthroughs by Python
-![Status](https://img.shields.io/badge/Status-In%20Progress-yellow)
+
 
 ## 🔐 Password Strength Analyzer – Version 2.0
 
@@ -123,6 +123,8 @@ analyzer.parse_log_file('your_log_file.log', 'custom')
 - Real-time log monitoring mode
 - Automatic firewall rule generation
 - Web interface for visualization
+
+---
 
 ## 🚧 Development Roadmap
 
