@@ -48,6 +48,34 @@ Total suspicious IPs: 2
 2. 203.0.113.42 - High request volume: 567, Sensitive paths: /admin, /wp-login
 
 ---
+# **🚨[Cross-Platform Brute Force Login Monitor](https://github.com/Sree-Ajitha/Python-Security-Tools/blob/2f5fb28516d1aadbf25fc1fa7bf3f4b4862ee6bf/Brute%20force%20login%20monitoring.md)**
+
+A Python-based security utility that detects and responds to brute force login attempts on both Linux (Ubuntu, Debian, CentOS, RHEL) and Windows in real time. Automatically identifies your OS, tracks failed login attempts by IP, and can block threats instantly.
+✅ Key Features
+
+  * Cross-Platform Support: Works seamlessly on Linux & Windows.
+
+  * Real-Time Threat Detection: Monitors authentication logs continuously.
+
+  * Automatic IP Blocking: Optional integration with iptables or Windows Firewall.
+
+  * Customizable Thresholds: Define failed attempt limits & time windows.
+
+  * Email Alerts & Whitelisting: Stay informed while excluding trusted IPs.
+
+📦 Requirements
+
+   Python 3.6+
+
+   Windows: pip install pywin32
+
+   Admin / sudo privileges
+
+📂 Resources
+
+**⬇[Download Brute force login monitoring (.py)](https://github.com/Sree-Ajitha/Python-Security-Tools/blob/2f5fb28516d1aadbf25fc1fa7bf3f4b4862ee6bf/brute_force_monitor_Version2.py)**
+
+---
 
 ## 🚧 Development Roadmap
 
