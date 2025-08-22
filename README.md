@@ -103,11 +103,6 @@ A lightweight, real-time file system monitor designed to spot suspicious activit
 
 ## 🚧 Development Roadmap
 
-- [x] Initial repo setup
-- [x] Uploaded base scripts
-- [x] Add full documentation
-- [x] Write blog post walkthrough
-
 > **Note:** This project is currently **In Progress**.  
 > New features, updated scripts, and documentation will be added over the coming weeks.  
 > Feedback and collaboration are welcome.
